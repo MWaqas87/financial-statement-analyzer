@@ -19,25 +19,7 @@ An interactive Streamlit app that allows users to upload company financial state
 - Visualize ratio trends over time
 - Built with a clean and responsive Streamlit interface
 
----
 
-## 📸 Screenshots
-
-*Coming soon*: Add screenshots of the app in action showing the table and chart views.
-
----
-
-## 🧪 Sample Input
-
-You can test the app using the `sample_financials.csv` file provided in the `data/` folder. The structure should include:
-
-```csv
-Year,Revenue,COGS,Operating_Income,Net_Income,Total_Assets,Total_Liabilities,Shareholders_Equity,Current_Assets,Current_Liabilities,Inventory,Interest_Expense
-2022,500000,300000,80000,60000,900000,400000,500000,300000,150000,50000,10000
-...
-```
-
----
 
 ## 📁 Project Structure
 
@@ -52,27 +34,6 @@ financial-statement-analyzer/
 └── README.md
 ```
 
----
-
-## 💻 Installation & Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/financial-statement-analyzer.git
-cd financial-statement-analyzer/app
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
-
----
 
 ## 🛠 Technologies Used
 
